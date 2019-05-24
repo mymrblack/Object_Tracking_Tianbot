@@ -1,0 +1,2 @@
+realsense-2.1.2/realsense2_camera:rf2o_laser_odometry:rplidar_ros:tianbot_racecar/racecar_bringup:tianbot_racecar/racecar_core:tianbot_racecar/racecar_description:tianbot_racecar/racecar_gps:tianbot_racecar/racecar_navigation:tianbot_racecar/racecar_rviz:tianbot_racecar/racecar_slam:tianbot_racecar/racecar_teleop:tianbot_racecar/racecar_test:tianbot_racecar/tianbot_racecar
+-DCATKIN_DEVEL_PREFIX=/home/tianbot/tianbot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/tianbot/tianbot_ws/install -G Unix Makefiles
